@@ -1,0 +1,22 @@
+{
+	"v1.1.1.4: Hidden Dreams": {
+		"src": "/lists/hollow-knight/shared/assets/hidden-dreams.png",
+		"width": 30,
+		"height": 31
+	},
+	"v1.2.1.0: The Grimm Troupe": {
+		"src": "/lists/hollow-knight/shared/assets/the-grimm-troupe.png",
+		"width": 28,
+		"height": 32
+	},
+	"v1.3.1.5: Lifeblood": {
+		"src": "/lists/hollow-knight/shared/assets/lifeblood.png",
+		"width": 32,
+		"height": 30
+	},
+	"v1.4.2.4: Godmaster": {
+		"src": "/lists/hollow-knight/shared/assets/godmaster.png",
+		"width": 29,
+		"height": 33
+	}
+}
