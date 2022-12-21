@@ -1,7 +1,9 @@
 {
 	"title": "Hollow Knight - Charms",
-	"logo": {
-		"src": "assets/wayward-compass.png",
-		"object-fit": "cover"
+	"props": {
+		"logo": {
+			"src": "assets/wayward-compass.png",
+			"style": "object-fit: cover"
+		}
 	}
 }

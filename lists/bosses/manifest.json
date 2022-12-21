@@ -1,7 +1,9 @@
 {
 	"title": "Hollow Knight - Bosses",
-	"logo": {
-		"src": "assets/thumbs/radiance.png",
-		"object-fit": "cover"
+	"props": {
+		"logo": {
+			"src": "assets/thumbs/radiance.png",
+			"style": "object-fit: cover"
+		}
 	}
 }
