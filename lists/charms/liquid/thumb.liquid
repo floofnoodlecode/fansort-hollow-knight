@@ -6,8 +6,4 @@
 	{% assign thumb = props.img %}
 {% endif %}
 
-{
-	"src": {{thumb.src}},
-	"width": {{thumb.width | divided_by: 2}},
-	"height": {{thumb.height | divided_by: 2}}
-}
+<image src="{{thumb.src}}" width="{{thumb.width | divided_by: 2}}" height="{{thumb.height | divided_by: 2}}"/>
