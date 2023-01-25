@@ -8,6 +8,9 @@
 	"items": [
 		{
 			"name": "Broken Vessel",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Broken_Vessel",
 				"img": {
@@ -19,14 +22,14 @@
 					"src": "assets/thumbs/broken-vessel.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Brooding Mawlek",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Brooding_Mawlek",
 				"img": {
@@ -38,14 +41,14 @@
 					"src": "assets/thumbs/brooding-mawlek.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Brothers Oro & Mato",
+			"attrs": {
+				"Released in": "v1.4.2.4: Godmaster"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Brothers_Oro_%26_Mato",
 				"img": {
@@ -57,14 +60,14 @@
 					"src": "assets/thumbs/brothers-oro-mato.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.4.2.4: Godmaster"
 				}
 			}
 		},
 		{
 			"name": "The Collector",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/The_Collector",
 				"img": {
@@ -76,14 +79,14 @@
 					"src": "assets/thumbs/the-collector.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Crystal Guardian",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Crystal_Guardian",
 				"img": {
@@ -95,14 +98,14 @@
 					"src": "assets/thumbs/crystal-guardian.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Dung Defender",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Dung_Defender",
 				"img": {
@@ -114,14 +117,14 @@
 					"src": "assets/thumbs/dung-defender.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "False Knight",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/False_Knight",
 				"img": {
@@ -133,14 +136,14 @@
 					"src": "assets/thumbs/false-knight.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Flukemarm",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Flukemarm",
 				"img": {
@@ -152,14 +155,14 @@
 					"src": "assets/thumbs/flukemarm.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "God Tamer",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/God_Tamer",
 				"img": {
@@ -171,14 +174,14 @@
 					"src": "assets/thumbs/god-tamer.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Great Nailsage Sly",
+			"attrs": {
+				"Released in": "v1.4.2.4: Godmaster"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Great_Nailsage_Sly",
 				"img": {
@@ -190,14 +193,14 @@
 					"src": "assets/thumbs/great-nailsage-sly.png",
 					"width": 99,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.4.2.4: Godmaster"
 				}
 			}
 		},
 		{
 			"name": "Grimm",
+			"attrs": {
+				"Released in": "v1.2.1.0: The Grimm Troupe"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Grimm",
 				"img": {
@@ -209,14 +212,14 @@
 					"src": "assets/thumbs/grimm.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.2.1.0: The Grimm Troupe"
 				}
 			}
 		},
 		{
 			"name": "Gruz Mother",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Gruz_Mother",
 				"img": {
@@ -228,14 +231,14 @@
 					"src": "assets/thumbs/gruz-mother.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Hive Knight",
+			"attrs": {
+				"Released in": "v1.3.1.5: Lifeblood"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Hive_Knight",
 				"img": {
@@ -247,14 +250,14 @@
 					"src": "assets/thumbs/hive-knight.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.3.1.5: Lifeblood"
 				}
 			}
 		},
 		{
 			"name": "Hollow Knight",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Hollow_Knight",
 				"img": {
@@ -266,14 +269,14 @@
 					"src": "assets/thumbs/hollow-knight.png",
 					"width": 100,
 					"height": 90
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Hornet Protector",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Hornet_Protector",
 				"img": {
@@ -285,14 +288,14 @@
 					"src": "assets/thumbs/hornet-protector.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Mantis Lords",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Mantis_Lords",
 				"img": {
@@ -304,14 +307,14 @@
 					"src": "assets/thumbs/mantis-lords.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Massive Moss Charger",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Massive_Moss_Charger",
 				"img": {
@@ -323,14 +326,14 @@
 					"src": "assets/thumbs/massive-moss-charger.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Nosk",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Nosk",
 				"img": {
@@ -342,14 +345,14 @@
 					"src": "assets/thumbs/nosk.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Oblobbles",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Oblobbles",
 				"img": {
@@ -361,14 +364,14 @@
 					"src": "assets/thumbs/oblobbles.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Paintmaster Sheo",
+			"attrs": {
+				"Released in": "v1.4.2.4: Godmaster"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Paintmaster_Sheo",
 				"img": {
@@ -380,14 +383,14 @@
 					"src": "assets/thumbs/paintmaster-sheo.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.4.2.4: Godmaster"
 				}
 			}
 		},
 		{
 			"name": "Radiance",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Radiance",
 				"img": {
@@ -399,14 +402,14 @@
 					"src": "assets/thumbs/radiance.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Soul Master",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Soul_Master",
 				"img": {
@@ -418,14 +421,14 @@
 					"src": "assets/thumbs/soul-master.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Soul Warrior",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Soul_Warrior",
 				"img": {
@@ -437,14 +440,14 @@
 					"src": "assets/thumbs/soul-warrior.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Traitor Lord",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Traitor_Lord",
 				"img": {
@@ -456,14 +459,14 @@
 					"src": "assets/thumbs/traitor-lord.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Uumuu",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Uumuu",
 				"img": {
@@ -475,14 +478,14 @@
 					"src": "assets/thumbs/uumuu.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Vengefly King",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Vengefly_King",
 				"img": {
@@ -494,14 +497,14 @@
 					"src": "assets/thumbs/vengefly-king.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Watcher Knight",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Watcher_Knight",
 				"img": {
@@ -513,14 +516,14 @@
 					"src": "assets/thumbs/watcher-knight.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Zote",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Zote",
 				"img": {
@@ -532,14 +535,14 @@
 					"src": "assets/thumbs/zote.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Elder Hu",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Elder_Hu",
 				"img": {
@@ -551,14 +554,14 @@
 					"src": "assets/thumbs/elder-hu.png",
 					"width": 97,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Galien",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Galien",
 				"img": {
@@ -570,14 +573,14 @@
 					"src": "assets/thumbs/galien.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Gorb",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Gorb",
 				"img": {
@@ -589,14 +592,14 @@
 					"src": "assets/thumbs/gorb.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Markoth",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Markoth",
 				"img": {
@@ -608,14 +611,14 @@
 					"src": "assets/thumbs/markoth.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Marmu",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Marmu",
 				"img": {
@@ -627,14 +630,14 @@
 					"src": "assets/thumbs/marmu.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "No Eyes",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/No_Eyes",
 				"img": {
@@ -646,14 +649,14 @@
 					"src": "assets/thumbs/no-eyes.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Xero",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Xero",
 				"img": {
@@ -665,14 +668,14 @@
 					"src": "assets/thumbs/xero.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Absolute Radiance",
+			"attrs": {
+				"Released in": "v1.4.2.4: Godmaster"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Absolute_Radiance",
 				"img": {
@@ -684,14 +687,14 @@
 					"src": "assets/thumbs/absolute-radiance.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.4.2.4: Godmaster"
 				}
 			}
 		},
 		{
 			"name": "Enraged Guardian",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Enraged_Guardian",
 				"img": {
@@ -703,14 +706,14 @@
 					"src": "assets/thumbs/enraged-guardian.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Failed Champion",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Failed_Champion",
 				"img": {
@@ -722,14 +725,14 @@
 					"src": "assets/thumbs/failed-champion.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Grey Prince Zote",
+			"attrs": {
+				"Released in": "v1.1.1.4: Hidden Dreams"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Grey_Prince_Zote",
 				"img": {
@@ -741,14 +744,14 @@
 					"src": "assets/thumbs/grey-prince-zote.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.1.1.4: Hidden Dreams"
 				}
 			}
 		},
 		{
 			"name": "Hornet Sentinel",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Hornet_Sentinel",
 				"img": {
@@ -760,14 +763,14 @@
 					"src": "assets/thumbs/hornet-sentinel.png",
 					"width": 99,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Lost Kin",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Lost_Kin",
 				"img": {
@@ -779,14 +782,14 @@
 					"src": "assets/thumbs/lost-kin.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "Nightmare King",
+			"attrs": {
+				"Released in": "v1.2.1.0: The Grimm Troupe"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Nightmare_King_Grimm",
 				"img": {
@@ -798,14 +801,14 @@
 					"src": "assets/thumbs/nightmare-king.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.2.1.0: The Grimm Troupe"
 				}
 			}
 		},
 		{
 			"name": "Pure Vessel",
+			"attrs": {
+				"Released in": "v1.4.2.4: Godmaster"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Pure_Vessel",
 				"img": {
@@ -817,14 +820,14 @@
 					"src": "assets/thumbs/pure-vessel.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.4.2.4: Godmaster"
 				}
 			}
 		},
 		{
 			"name": "Sisters of Battle",
+			"attrs": {
+				"Released in": "v1.4.2.4: Godmaster"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Sisters_of_Battle",
 				"img": {
@@ -836,14 +839,14 @@
 					"src": "assets/thumbs/sisters-of-battle.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.4.2.4: Godmaster"
 				}
 			}
 		},
 		{
 			"name": "Soul Tyrant",
+			"attrs": {
+				"Released in": "v1.0.0.0: Release"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Soul_Tyrant",
 				"img": {
@@ -855,14 +858,14 @@
 					"src": "assets/thumbs/soul-tyrant.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.0.0.0: Release"
 				}
 			}
 		},
 		{
 			"name": "White Defender",
+			"attrs": {
+				"Released in": "v1.1.1.4: Hidden Dreams"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/White_Defender",
 				"img": {
@@ -874,14 +877,14 @@
 					"src": "assets/thumbs/white-defender.png",
 					"width": 99,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.1.1.4: Hidden Dreams"
 				}
 			}
 		},
 		{
 			"name": "Winged Nosk",
+			"attrs": {
+				"Released in": "v1.4.2.4: Godmaster"
+			},
 			"props": {
 				"url": "https://hollowknight.fandom.com/wiki/Winged_Nosk",
 				"img": {
@@ -893,16 +896,8 @@
 					"src": "assets/thumbs/winged-nosk.png",
 					"width": 100,
 					"height": 100
-				},
-				"fields": {
-					"Released in": "v1.4.2.4: Godmaster"
 				}
 			}
-		}
-	],
-	"attrs": [
-		{
-			"pointer": "/props/fields/Released in"
 		}
 	],
 	"context": {

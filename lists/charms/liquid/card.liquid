@@ -20,8 +20,9 @@
 		{% endfor %}
 	</div>
 
-	{% if props.fields %}
-		<table class="table table-sm align-middle small mb-0"><tbody>
+	<table class="table table-sm align-middle small mb-0"><tbody>
+		{% comment %} props.fields {% endcomment %}
+		{% if props.fields %}
 			{% for field in props.fields %}
 				{%- comment -%}Normalize to string{%- endcomment -%}
 				{% if field[1].first %}
@@ -32,8 +33,25 @@
 
 				<tr>
 					<th scope="row" class="text-capitalize">{{field[0]}}</th>
+					<td>{{value}}</td>
+				</tr>
+			{% endfor %}
+		{% endif %}
+
+		{% comment %} item.attrs {% endcomment %}
+		{% if item.attrs %}
+			{% for field in item.attrs %}
+				{%- comment -%}Normalize to string{%- endcomment -%}
+				{% if field[1].first %}
+					{% assign value = field[1] | join: ' | ' %}
+				{% else %}
+					{% assign value = field[1] %}
+				{% endif %}
+
+				<tr>
+					<th scope="row" class="text-capitalize">{{field[0]}}</th>
 					<td>
-						{% if field[0] == 'released in' and value != 'v1.0.0.0: Release' %}
+						{% if field[0] == 'Released in' and value != 'v1.0.0.0: Release' %}
 							{% assign img = updates[value] %}
 							<img src="{{img.src}}" alt="update icon"
 								width="{{img.width | divided_by: 2}}" height="{{img.height | divided_by: 2}}"/>
@@ -42,6 +60,6 @@
 					</td>
 				</tr>
 			{% endfor %}
-		</table>
-	{% endif %}
+		{% endif %}
+	</table>
 </div>
