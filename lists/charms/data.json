@@ -817,7 +817,7 @@
 			}
 		}
 	],
-	"context": {
+	"dataImports": {
 		"updates": "../shared/updates.data.json"
 	}
 }
