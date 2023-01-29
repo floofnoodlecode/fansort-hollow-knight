@@ -900,7 +900,7 @@
 			}
 		}
 	],
-	"dataImports": {
+	"sharedDataImports": {
 		"updates": "../shared/updates.data.json"
 	}
 }
